@@ -1,0 +1,4 @@
+#Ignore Python Virtual Environment
+venv/
+#Data
+*.csv
