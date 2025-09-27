@@ -1,4 +1,4 @@
 #Ignore Python Virtual Environment
 venv/
 #Data
-*.csv
+tokopedia-product-reviews-2019.csv
