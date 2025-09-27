@@ -144,5 +144,5 @@ To counter this:
 - **Logistic Regression (baseline)**: Simple, interpretable baseline to verify embedding quality.
 - **FAISS**: Fast, scalable similarity search enabling retrieval-augmented predictions and transparent neighbor evidence.
 
-## 📄 License
+## License
 The **dataset is licensed under [MIT](https://opensource.org/license/mit)** 
